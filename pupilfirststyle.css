@@ -1,0 +1,74 @@
+*{box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(94, 94, 94);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+h2 {
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+
+}
+
+label {
+    margin-right: 25px;
+    position: relative;
+}
+
+
+.container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 60px;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 15px;
+}
+
+.field {
+    margin: 10px;
+    display: block;
+    text-align: center;
+
+}
+
+.input {
+    border-width: 1px;
+    border-color: black;
+    border-radius: 4px;
+    margin-top: 5px;
+    padding: 10px;
+    width: 170px;
+}
+
+.button {
+    text-align: center;
+    padding: 10px;
+    border-width: 1px;
+    background-color: #333;
+    border-radius: 10px;
+    color: rgb(255, 253, 253);
+}
+
+.button:hover {
+    background-color:rgb(104, 104, 104) ;
+    cursor: pointer;
+    color: black;
+    opacity: 80%;
+}
+
+table,th,td {
+    border: 3px solid;
+    background-color: blanchedalmond;
+    color: rgb(0, 0, 0);
+    margin-left: 29.5%;
+    
+    
+}
